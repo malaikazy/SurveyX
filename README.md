@@ -29,11 +29,13 @@ To request a paper, create a new issue with the following details:
 
 ### 💬Example Issue Submission:
 
-**Title**: Controllable text generation of LLM: A Survey
-
-**Keywords**: AI, healthcare, ethical implications, technology adoption, AI-driven diagnostics
+> **Title**: Controllable text generation of LLM: A Survey
+>
+> **Keywords**: AI, healthcare, ethical implications, technology adoption, AI-driven diagnostics
 
 Once your request is submitted, the generated paper will be placed in the **user requests** folder. Please allow 1-2 business days for processing and generation. ⏳
+
+<hr style="border: 1px solid #ecf0f1;">
 
 ## ⚠️Disclaimer
 
