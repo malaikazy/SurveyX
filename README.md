@@ -2,37 +2,29 @@
 
 <p align="center">
   <i>
-Welcome to SurveyX! This project leverages the power of Large Language Models (LLMs) to automate the generation of high-quality academic papers and surveys. This GitHub repository serves as a channel for users to submit requests for paper generation based on specific topics or domains.
+Welcome to SurveyX! This GitHub repository serves as a channel for users to submit requests for paper generation based on specific topics or domains.
   </i>
 <p>
 
 ## What is SurveyX?
 
-**SurveyX** is an advanced academic survey automation system that leverages the power of **Large Language Models (LLMs)** to generate high-quality, domain-specific academic papers and surveys. 
+**SurveyX** is an advanced academic survey automation system that leverages the power of **Large Language Models (LLMs)** to generate high-quality, domain-specific academic papers and surveys.
 
 By simply providing a **paper title** and **keywords** for literature retrieval, users can request comprehensive academic papers or surveys tailored to specific topics.
 
-## How It Works
+If you're curious about how SurveyX works or want to understand the underlying technology and methodology, feel free to check out our [research paper](http://www.surveyx.cn), where we provide an in-depth explanation of the system's architecture, data processing methods, and experimental results.
 
-SurveyX automates the process of generating academic content. Here's how it works:
-
-1. **Submit an Issue**: To request a paper, simply create a new issue with the **desired paper title** and **keywords** related to the topic you'd like the paper to focus on. These keywords will be used for literature retrieval and content generation.
-2. **Paper Generation**: Based on your request, SurveyX uses its powerful LLM system to generate a paper, incorporating relevant content, citations, and survey questions drawn from a curated literature database.
-3. **Receive the Paper**: After generating the paper, it will be delivered to you. You can request revisions or further refinements if necessary.
-
-## How to Submit an Issue
+## How to Request a Custom Paper via Issue
 
 To request a paper, create a new issue with the following details:
 
-- **Paper Title**: Provide the title or a brief description of the paper you need.
-- **Keywords for Literature Search**: Provide key terms or phrases that will help retrieve relevant literature and guide the content generation (e.g., "AI in healthcare," "climate change impact on agriculture").
+- **Paper Title**: Provide the title of the paper you need.
+- **Keywords for Literature Search**: Provide keywords separated by commas that will help retrieve relevant literature and guide the content generation (e.g., "AI in healthcare, climate change impact on agriculture, ethical implications of AI").
 
 ### Example Issue Submission:
 
-**Title**: Paper on the Impact of AI in Healthcare
+**Title**: Controllable text generation of LLM: A Survey
  **Keywords**: AI, healthcare, ethical implications, technology adoption, AI-driven diagnostics
-
-SurveyX will retrieve literature related to these keywords and generate a paper based on your request.
 
 ## Disclaimer
 
