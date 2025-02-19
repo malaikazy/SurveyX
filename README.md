@@ -12,7 +12,7 @@
 
 By simply providing a **paper title** and **keywords** for literature retrieval, users can request comprehensive academic papers or surveys tailored to specific topics.
 
-If you're curious about how SurveyX works or want to understand the underlying technology and methodology, feel free to check out our 📑[research paper](http://www.surveyx.cn), where we provide an in-depth explanation of the system's architecture, data processing methods, and experimental results.
+If you're curious about how SurveyX works or want to understand the underlying technology and methodology, feel free to check out our 📑[website](http://www.surveyx.cn), where we provide an in-depth explanation of the system's architecture, data processing methods, and experimental results.
 
 ## 🤔 What’s This Git For?
 
@@ -30,7 +30,8 @@ To request a paper, create a new issue with the following details:
 ### 💬Example Issue Submission:
 
 **Title**: Controllable text generation of LLM: A Survey
- **Keywords**: AI, healthcare, ethical implications, technology adoption, AI-driven diagnostics
+
+**Keywords**: AI, healthcare, ethical implications, technology adoption, AI-driven diagnostics
 
 Once your request is submitted, the generated paper will be placed in the **user requests** folder. Please allow 1-2 business days for processing and generation. ⏳
 
