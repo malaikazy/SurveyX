@@ -2,7 +2,7 @@
 
 <p align="center">
   <i>
-Welcome to SurveyX! This GitHub repository serves as a channel for users to submit requests for paper generation based on specific topics or domains.📚✨
+✨Welcome to SurveyX! This GitHub repository serves as a channel for users to submit requests for paper generation based on specific topics or domains.📚
   </i>
 <p>
 
@@ -19,14 +19,16 @@ If you're curious about how SurveyX works or want to understand the underlying t
 To request a paper, create a new issue with the following details:
 
 - **Paper Title**: Provide the title of the paper you need.
-- **Keywords for Literature Search**: Provide keywords separated by commas that will help retrieve relevant literature and guide the content generation (e.g., "AI in healthcare, climate change impact on agriculture, ethical implications of AI").
+- **Keywords for Literature Search**: Provide keywords separated by commas that will help retrieve relevant literature and guide the content generation (e.g. "AI in healthcare, climate change impact on agriculture, ethical implications of AI").
 
-### Example Issue Submission💬:
+### 💬Example Issue Submission:
 
 **Title**: Controllable text generation of LLM: A Survey
  **Keywords**: AI, healthcare, ethical implications, technology adoption, AI-driven diagnostics
 
-## Disclaimer⚠️
+Once your request is submitted, the generated paper will be placed in the **user requests** folder. Please allow 1-2 business days for processing and generation. ⏳
+
+## ⚠️Disclaimer
 
 SurveyX uses advanced language models to assist with the generation of academic papers. However, it is important to note that the generated content is a tool for research assistance. Users should verify the accuracy of the generated papers, as SurveyX cannot guarantee full compliance with academic standards.
 
