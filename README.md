@@ -5,8 +5,9 @@
 ✨Welcome to SurveyX! This GitHub repository serves as a channel for users to submit requests for paper generation based on specific topics or domains.📚
   </i>
 <p>
-
 ## 🤔What is SurveyX?
+
+![](assets/readme_1.png)
 
 **SurveyX** is an advanced academic survey automation system that leverages the power of Large Language Models (LLMs) to generate high-quality, domain-specific academic papers and surveys.🚀
 
