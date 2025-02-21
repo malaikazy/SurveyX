@@ -41,27 +41,27 @@ Once your request is submitted, the generated paper will be placed in the **user
 
 | Title                                                        | Keywords                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| From BERT to GPT-4: A Survey of Architectural Innovations in Pre-trained Language Models | Transformer, BERT, GPT-3, self-attention, masked language modeling, cross-lingual transfer, model scaling |
-| Unsupervised Cross-Lingual Word Embedding Alignment: Techniques and Applications | low-resource NLP, few-shot learning, data augmentation, unsupervised alignment, synthetic corpora, NLLB, zero-shot transfer |
-| Vision-Language Pre-training: Architectures, Benchmarks, and Emerging Trends | multimodal learning, CLIP, Whisper, cross-modal retrieval, modality fusion, video-language models, contrastive learning |
-| Efficient NLP at Scale: A Review of Model Compression Techniques | model compression, knowledge distillation, pruning, quantization, TinyBERT, edge computing, latency-accuracy tradeoff |
-| Domain-Specific NLP: Adapting Models for Healthcare, Law, and Finance | domain adaptation, BioBERT, legal NLP, clinical text analysis, privacy-preserving NLP, terminology extraction, few-shot domain transfer |
-| Hierarchy Theorems in Computational Complexity: From Time-Space Tradeoffs to Oracle Separations | P vs NP, NP-completeness, polynomial hierarchy, space complexity, oracle separation, Cook-Levin theorem |
-| Classical Simulation of Quantum Circuits: Complexity Barriers and Implications | BQP, quantum supremacy, Shor's algorithm, post-quantum cryptography, QMA, hidden subgroup problem |
-| Kernelization: Theory, Techniques, and Limits                | fixed-parameter tractable (FPT), kernelization, treewidth, W-hierarchy, ETH (Exponential Time Hypothesis), parameterized reduction |
-| Optimal Inapproximability Thresholds for Combinatorial Optimization Problems | PCP theorem, approximation ratio, Unique Games Conjecture, APX-hardness, gap-preserving reduction, LP relaxation |
-| Hardness in P: When Polynomial Time is Not Enough            | SETH (Strong Exponential Time Hypothesis), 3SUM conjecture, all-pairs shortest paths (APSP), orthogonal vectors problem, fine-grained reduction, dynamic lower bounds |
-| Consistency Models in Distributed Databases: From ACID to NewSQL | CAP theorem, ACID vs BASE, Paxos/Raft, Spanner, NewSQL, sharding, linearizability |
-| Cloud-Native Databases: Architectures, Challenges, and Future Directions | cloud databases, AWS Aurora, Snowflake, storage-compute separation, auto-scaling, pay-per-query, multi-tenancy |
-| Graph Database Systems: Storage Engines and Query Optimization Techniques | graph traversal, Neo4j, SPARQL, property graph, subgraph matching, RDF triplestore, Gremlin |
-| Real-Time Aggregation in TSDBs: Techniques for High-Cardinality Data | time-series data, InfluxDB, Prometheus, downsampling, time windowing, high-cardinality indexing, stream processing |
-| Self-Driving Databases: A Survey of AI-Powered Autonomous Management | autonomous databases, learned indexes, query optimization, Oracle AutoML, workload forecasting, anomaly detection |
-| Multi-Model Databases: Integrating Relational, Document, and Graph Paradigms | multi-model database, MongoDB, ArangoDB, JSONB, unified query language, schema flexibility, polystore |
-| Vector Databases for AI: Efficient Similarity Search and Retrieval-Augmented Generation | vector database, FAISS, Milvus, ANN search, embedding indexing, RAG (Retrieval-Augmented Generation), HNSW |
-| Software-Defined Networking: Evolution, Challenges, and Future Scalability | OpenFlow, control plane/data plane separation, NFV orchestration, network slicing, P4 language, OpenDaylight, scalability bottlenecks |
-| Beyond 5G: Architectural Innovations for Terahertz Communication and Network Slicing | network slicing, MEC (Multi-access Edge Computing), beamforming, mmWave, URLLC (Ultra-Reliable Low-Latency Communication), O-RAN, energy efficiency |
-| IoT Network Protocols: A Comparative Study of LoRaWAN, NB-IoT, and Thread | LPWAN, LoRa, ZigBee 3.0, 6LoWPAN, TDMA scheduling, RPL routing, device density management |
-| Edge Caching in Content Delivery Networks: Algorithms and Economic Incentives | CDN, Akamai, cache replacement policies, DASH (Dynamic Adaptive Streaming), QoE optimization, edge server placement, bandwidth cost reduction |
+| [From BERT to GPT-4: A Survey of Architectural Innovations in Pre-trained Language Models](./examples/Computation and Language/Transformer.pdf) | Transformer, BERT, GPT-3, self-attention, masked language modeling, cross-lingual transfer, model scaling |
+| [Unsupervised Cross-Lingual Word Embedding Alignment: Techniques and Applications](./examples/Computation and Language/low.pdf) | low-resource NLP, few-shot learning, data augmentation, unsupervised alignment, synthetic corpora, NLLB, zero-shot transfer |
+| [Vision-Language Pre-training: Architectures, Benchmarks, and Emerging Trends](./examples/Computation and Language/multimodal.pdf) | multimodal learning, CLIP, Whisper, cross-modal retrieval, modality fusion, video-language models, contrastive learning |
+| [Efficient NLP at Scale: A Review of Model Compression Techniques](./examples/Computation and Language/model.pdf) | model compression, knowledge distillation, pruning, quantization, TinyBERT, edge computing, latency-accuracy tradeoff |
+| [Domain-Specific NLP: Adapting Models for Healthcare, Law, and Finance](./examples/Computation and Language/domain.pdf) | domain adaptation, BioBERT, legal NLP, clinical text analysis, privacy-preserving NLP, terminology extraction, few-shot domain transfer |
+| [Hierarchy Theorems in Computational Complexity: From Time-Space Tradeoffs to Oracle Separations](examples/Computational Complexity/P_vs_.pdf) | P vs NP, NP-completeness, polynomial hierarchy, space complexity, oracle separation, Cook-Levin theorem |
+| [Classical Simulation of Quantum Circuits: Complexity Barriers and Implications](examples/Computational Complexity/P_vs_.pdf) | BQP, quantum supremacy, Shor's algorithm, post-quantum cryptography, QMA, hidden subgroup problem |
+| [Kernelization: Theory, Techniques, and Limits](examples/Computational Complexity/fixed.pdf) | fixed-parameter tractable (FPT), kernelization, treewidth, W-hierarchy, ETH (Exponential Time Hypothesis), parameterized reduction |
+| [Optimal Inapproximability Thresholds for Combinatorial Optimization Problems](examples/Computational Complexity/PCP.pdf) | PCP theorem, approximation ratio, Unique Games Conjecture, APX-hardness, gap-preserving reduction, LP relaxation |
+| [Hardness in P: When Polynomial Time is Not Enough](examples/Computational Complexity/SETH.pdf) | SETH (Strong Exponential Time Hypothesis), 3SUM conjecture, all-pairs shortest paths (APSP), orthogonal vectors problem, fine-grained reduction, dynamic lower bounds |
+| [Consistency Models in Distributed Databases: From ACID to NewSQL](examples/Database/CAP.pdf) | CAP theorem, ACID vs BASE, Paxos/Raft, Spanner, NewSQL, sharding, linearizability |
+| [Cloud-Native Databases: Architectures, Challenges, and Future Directions](examples/Database/CAP.pdf) | cloud databases, AWS Aurora, Snowflake, storage-compute separation, auto-scaling, pay-per-query, multi-tenancy |
+| [Graph Database Systems: Storage Engines and Query Optimization Techniques](examples/Database/CAP.pdf) | graph traversal, Neo4j, SPARQL, property graph, subgraph matching, RDF triplestore, Gremlin |
+| [Real-Time Aggregation in TSDBs: Techniques for High-Cardinality Data](examples/Database/CAP.pdf) | time-series data, InfluxDB, Prometheus, downsampling, time windowing, high-cardinality indexing, stream processing |
+| [Self-Driving Databases: A Survey of AI-Powered Autonomous Management](examples/Database/auto.pdf) | autonomous databases, learned indexes, query optimization, Oracle AutoML, workload forecasting, anomaly detection |
+| [Multi-Model Databases: Integrating Relational, Document, and Graph Paradigms](examples/Database/mmd.pdf) | multi-model database, MongoDB, ArangoDB, JSONB, unified query language, schema flexibility, polystore |
+| [Vector Databases for AI: Efficient Similarity Search and Retrieval-Augmented Generation](examples/Networking and Internet Architecture/CDN.pdf) | vector database, FAISS, Milvus, ANN search, embedding indexing, RAG (Retrieval-Augmented Generation), HNSW |
+| [Software-Defined Networking: Evolution, Challenges, and Future Scalability](examples/Networking and Internet Architecture/CDN.pdf) | OpenFlow, control plane/data plane separation, NFV orchestration, network slicing, P4 language, OpenDaylight, scalability bottlenecks |
+| [Beyond 5G: Architectural Innovations for Terahertz Communication and Network Slicing](examples/Networking and Internet Architecture/network.pdf) | network slicing, MEC (Multi-access Edge Computing), beamforming, mmWave, URLLC (Ultra-Reliable Low-Latency Communication), O-RAN, energy efficiency |
+| [IoT Network Protocols: A Comparative Study of LoRaWAN, NB-IoT, and Thread](examples/Networking and Internet Architecture/LPWAN.pdf) | LPWAN, LoRa, ZigBee 3.0, 6LoWPAN, TDMA scheduling, RPL routing, device density management |
+| [Edge Caching in Content Delivery Networks: Algorithms and Economic Incentives](examples/Networking and Internet Architecture/CDN.pdf) | CDN, Akamai, cache replacement policies, DASH (Dynamic Adaptive Streaming), QoE optimization, edge server placement, bandwidth cost reduction |
 
 
 
