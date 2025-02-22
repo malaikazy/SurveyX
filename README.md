@@ -4,7 +4,14 @@
   <i>
 ✨Welcome to SurveyX! This GitHub repository serves as a channel for users to submit requests for paper generation based on specific topics or domains.📚
   </i>
-<p>
+  <br>
+  <a href="https://arxiv.org/abs/2502.14776">
+      <img src="https://img.shields.io/badge/arXiv-Paper-B31B1B">
+  </a>
+  <a href="https://www.surveyx.cn">
+    <img src="https://img.shields.io/badge/Web-SurveyX-blue">
+ 	</a>
+</p>
 
 ## 🤔What is SurveyX?
 
