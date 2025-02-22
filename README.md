@@ -9,7 +9,7 @@
       <img src="https://img.shields.io/badge/arXiv-Paper-B31B1B">
   </a>
   <a href="https://www.surveyx.cn">
-    <img src="https://img.shields.io/badge/Web-SurveyX-blue">
+    <img src="https://img.shields.io/badge/SurveyX-Web-blue">
  	</a>
 </p>
 
