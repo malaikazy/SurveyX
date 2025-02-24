@@ -107,6 +107,8 @@ Please cite us if you find this project helpful for your project/paper:
 ```
 
 <hr style="border: 1px solid #ecf0f1;">
+
+
 ## ⚠️Disclaimer
 
 SurveyX uses advanced language models to assist with the generation of academic papers. However, it is important to note that the generated content is a tool for research assistance. Users should verify the accuracy of the generated papers, as SurveyX cannot guarantee full compliance with academic standards.
