@@ -114,7 +114,9 @@ Please cite us if you find this project helpful for your project/paper:
 ```
 
 <hr style="border: 1px solid #ecf0f1;">
+## ⚠️ Note
 
+Our retrieval engine may not have access to many papers that require commercial licensing. If your research topic requires papers from sources other than arXiv, the quality and comprehensiveness of the generated papers may be affected due to limitations in our retrieval scope.
 
 ## ⚠️Disclaimer
 
