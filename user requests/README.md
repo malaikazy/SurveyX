@@ -12,11 +12,14 @@ To request a custom paper, please follow these steps:
 
    - **Paper Title**: Provide a title or brief description of the paper you'd like.
    - **Keywords for Literature Search**: List key terms or phrases that will help guide the content generation (e.g., "AI in healthcare," "climate change").
+   - **Your email**(optional): Please provide your email address so that we can notify you promptly once the paper is ready. 
 
    Example Issue Submission:
 
    **Title**: Paper on the Impact of AI in Healthcare
     **Keywords**: AI, healthcare, ethics, technology adoption, diagnostics
+
+   **Email**(optional): xxxxxxxxx@xxxx.xx
 
 3. **Wait for Paper Generation**: After your issue is submitted, the system will generate a paper based on the information provided. This may take 1-2 business days, depending on the complexity of the request.
 
