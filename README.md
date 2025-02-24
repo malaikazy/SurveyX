@@ -90,6 +90,12 @@ Once your request is submitted, the generated paper will be placed in the **user
 | [A survey on  flow batteries](examples/Other/battery.pdf)    | battery electrolyte formulation                              |
 | [Research on battery electrolyte formulation](examples/Other/flow_battery.pdf) | flow batteries                                               |
 
+### User Requested Papers
+
+| Title                                                        | Keywords                                          |
+| ------------------------------------------------------------ | ------------------------------------------------- |
+| [Reasoning of large language model: A Survey](user_requests/Reasoning_of_large_language_model.pdf) | reasoning, LLM, NLP, Artificial Intelligence (AI) |
+
 ## Citing SurveyX
 
 Please cite us if you find this project helpful for your project/paper:
