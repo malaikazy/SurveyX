@@ -92,9 +92,10 @@ Once your request is submitted, the generated paper will be placed in the **user
 
 ### User Requested Papers
 
-| Title                                                        | Keywords                                          |
-| ------------------------------------------------------------ | ------------------------------------------------- |
-| [Reasoning of large language model: A Survey](user_requests/Reasoning_of_large_language_model.pdf) | reasoning, LLM, NLP, Artificial Intelligence (AI) |
+| Title                                                        | Keywords                                                   |
+| ------------------------------------------------------------ | ---------------------------------------------------------- |
+| [Reasoning of large language model: A Survey](user_requests/Reasoning_of_large_language_model.pdf) | reasoning, LLM, NLP, Artificial Intelligence (AI)          |
+| [Think_and_Draw!_A_survey_on_Vision-MLLMs_that_can_understand_and_generate](user_requests/Think_and_Draw!_A_survey_on_Vision-MLLMs_that_can_understand_and_generate.pdf) | vision-language models, multimodal learning, generative AI |
 
 ## Citing SurveyX
 
