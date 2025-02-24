@@ -10,8 +10,12 @@
   </a>
   <a href="https://www.surveyx.cn">
     <img src="https://img.shields.io/badge/SurveyX-Web-blue">
- 	</a>
+  </a>
+  <a href="https://huggingface.co/papers/2502.14776">
+    <img src="https://img.shields.io/badge/Huggingface-🤗-yellow">
+  </a>
 </p>
+
 
 ## 🤔What is SurveyX?
 
@@ -35,12 +39,15 @@ To request a paper, create a new issue with the following details:
 
 - **Paper Title**: Provide the title of the paper you need.
 - **Keywords for Literature Search**: Provide keywords separated by commas that will help retrieve relevant literature and guide the content generation (e.g. "AI in healthcare, climate change impact on agriculture, ethical implications of AI").
+- **Your email**(optional): Please provide your email address so that we can notify you promptly once the paper is ready. 
 
 ### 💬Example Issue Submission:
 
 > **Title**: Controllable text generation of LLM: A Survey
 >
 > **Keywords**: AI, healthcare, ethical implications, technology adoption, AI-driven diagnostics
+>
+> **Email**: xxxxxxxx@SurveyX.cn
 
 Once your request is submitted, the generated paper will be placed in the **user requests** folder. Please allow 1-2 business days for processing and generation. ⏳
 
