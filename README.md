@@ -92,10 +92,11 @@ Once your request is submitted, the generated paper will be placed in the **user
 
 ### User Requested Papers
 
-| Title                                                        | Keywords                                                   |
-| ------------------------------------------------------------ | ---------------------------------------------------------- |
-| [Reasoning of large language model: A Survey](user_requests/Reasoning_of_large_language_model.pdf) | reasoning, LLM, NLP, Artificial Intelligence (AI)          |
-| [Think_and_Draw!_A_survey_on_Vision-MLLMs_that_can_understand_and_generate](user_requests/Think_and_Draw!_A_survey_on_Vision-MLLMs_that_can_understand_and_generate.pdf) | vision-language models, multimodal learning, generative AI |
+| Title                                                        | Keywords                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Reasoning of large language model: A Survey](user_requests/Reasoning_of_large_language_model.pdf) | reasoning, LLM, NLP, Artificial Intelligence (AI)            |
+| [Think_and_Draw!_A_survey_on_Vision-MLLMs_that_can_understand_and_generate](user_requests/Think_and_Draw!_A_survey_on_Vision-MLLMs_that_can_understand_and_generate.pdf) | vision-language models, multimodal learning, generative AI   |
+| [A Survey of new intent detection and discovery for Conversational Understanding](user_requests/A_Survey_of_new_intent_detection_and_discovery_for_Conversational_Understanding.pdf) | Out-of-domain Detection, New Intent Discovery, Generalized Category Discovery |
 
 ## 📃Citing SurveyX
 
