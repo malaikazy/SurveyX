@@ -55,6 +55,8 @@ Once your request is submitted, the generated paper will be placed in the **user
 
 ![many_papers](assets/many_papers.png)
 
+### Examples Papers
+
 | Title                                                        | Keywords                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [From BERT to GPT-4: A Survey of Architectural Innovations in Pre-trained Language Models](./examples/Computation_and_Language/Transformer.pdf) | Transformer, BERT, GPT-3, self-attention, masked language modeling, cross-lingual transfer, model scaling |
@@ -88,10 +90,23 @@ Once your request is submitted, the generated paper will be placed in the **user
 | [A survey on  flow batteries](examples/Other/battery.pdf)    | battery electrolyte formulation                              |
 | [Research on battery electrolyte formulation](examples/Other/flow_battery.pdf) | flow batteries                                               |
 
+## Citing SurveyX
 
+Please cite us if you find this project helpful for your project/paper:
+
+```plain text
+@misc{liang2025surveyxacademicsurveyautomation,
+      title={SurveyX: Academic Survey Automation via Large Language Models}, 
+      author={Xun Liang and Jiawei Yang and Yezhaohui Wang and Chen Tang and Zifan Zheng and Simin Niu and Shichao Song and Hanyu Wang and Bo Tang and Feiyu Xiong and Keming Mao and Zhiyu li},
+      year={2025},
+      eprint={2502.14776},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2502.14776}, 
+}
+```
 
 <hr style="border: 1px solid #ecf0f1;">
-
 ## ⚠️Disclaimer
 
 SurveyX uses advanced language models to assist with the generation of academic papers. However, it is important to note that the generated content is a tool for research assistance. Users should verify the accuracy of the generated papers, as SurveyX cannot guarantee full compliance with academic standards.
