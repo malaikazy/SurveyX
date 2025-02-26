@@ -22,6 +22,9 @@
 
 <mark>💡 Your support means everything to us as we work to bring this innovative solution to life. Stay tuned for more updates!</mark>
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=IAAR-Shanghai/SurveyX&type=Timeline)](https://star-history.com/#IAAR-Shanghai/SurveyX&Timeline)
 
 ## 🤔What is SurveyX?
 
