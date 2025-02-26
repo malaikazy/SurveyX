@@ -8,7 +8,7 @@
   <a href="https://arxiv.org/abs/2502.14776">
       <img src="https://img.shields.io/badge/arXiv-Paper-B31B1B">
   </a>
-  <a href="https://www.surveyx.cn">
+  <a href="http://www.surveyx.cn">
     <img src="https://img.shields.io/badge/SurveyX-Web-blue">
   </a>
   <a href="https://huggingface.co/papers/2502.14776">
