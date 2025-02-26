@@ -17,7 +17,7 @@
 </p>
 
 
-<mark><span style="font-weight: bold;">🚀 We're actively developing a full-featured product with a sleek graphical interface!</span></mark>
+<mark><strong>🚀 We're actively developing a full-featured product with a sleek graphical interface!</strong></mark>
 
 <mark>⭐ Star this repo to stay updated and be the first to know about our progress and release announcements!</mark>
 
