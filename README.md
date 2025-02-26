@@ -16,7 +16,6 @@
   </a>
 </p>
 
-
 <mark><strong>🚀 We're actively developing a full-featured product with a sleek graphical interface!</strong></mark>
 
 <mark>⭐ Star this repo to stay updated and be the first to know about our progress and release announcements!</mark>
@@ -134,12 +133,17 @@ Once your request is submitted, the generated paper will be placed in the **user
  | [Prediction of shear strength parameters of granite residual soil based on machine learning](user_requests/Prediction_of_shear_strength_parameters_of_granite_residual_soil_based_on_machine_learning.pdf) | granite residual soil, machine learning, shear strength parameters, data processing, model interpretability
  | [Quantifying the Use and Impact of Machine Learning in Lung Sound Classification and Recognition](user_requests/Quantifying_the_Use_and_Impact_of_Machine_Learning_in_Lung_Sound_Classification_and_Recognition.pdf) | Machine learning, lung sounds, respiratory sound recognition, Pulmonary sound analysis,Feature extraction
  | [Process Reward Models for Large Language Model Reasoning: A Comprehensive Review](user_requests/Process_Reward_Models_for_Large_Language_Model_Reasoning__A_Comprehensive_Review.pdf) | Large Language Models, process supervision, step-level supervision, process reward model (PRM), step-level reward, process verifier, step-by-step verifier, Reinforcement Learning
+ | [A Comprehensive Survey of Low-Rank Adaptation (LoRA) in Large Language Models, Vision Generation, Large Multimodal Models and Beyond: Methods, Theories, Applications and Opportunities](user_requests/A_Comprehensive_Survey_of_Low-Rank_Adaptation_(LoRA)_in_Large_Language_Models,_Vision_Generation,_Large_Multimodal_Models_and_Beyond__Methods,_Theories,_Applications_and_Opportunities.pdf) | LoRA (Low-Rank Adaptation), LoRA Hyperparameters, LoRA with Pruning, Multimodal learning, Vision-Language Models
  | [Symbolic Regression: Architectures, Benchmarks, and Emerging Trends](user_requests/Symbolic_Regression__Architectures,_Benchmarks,_and_Emerging_Trends.pdf) | symbolic regression, sparse regression, equation discovery, genetic algorithms, Reinforcement Learning, large language models
+ | [PCB defect detection: a survey](user_requests/PCB_defect_detection__a_survey.pdf) | PCB defect detection
  | [Diffusion Models in object detection: A  survey.](user_requests/Diffusion_Models_in_object_detection__A__survey..pdf) | Diffusion Models, object detection, object recognition
+ | [The Impact of AI Image Recognition Technology in Sports Fitness Training on Customer Participation and Repurchase Intention: A Survey](user_requests/The_Impact_of_AI_Image_Recognition_Technology_in_Sports_Fitness_Training_on_Customer_Participation_and_Repurchase_Intention__A_Survey.pdf) | Image Recognition, Sports Fitness Training, Customer Participation, Repurchase Intention
  | [A review of deep-learning-based approaches for Positron Emission Tomography Reconstrution](user_requests/A_review_of_deep-learning-based_approaches_for_Positron_Emission_Tomography_Reconstrution.pdf) | deep learning, Positron Emission Tomography, PET image reconstrution
  | [Finetuning Mixture of Experts LLMs: Methods, Applications, Risks and Opportunities](user_requests/Finetuning_Mixture_of_Experts_LLMs__Methods,_Applications,_Risks_and_Opportunities.pdf) | LLMs, Large Language Models, Mixture of Experts, training, Continued Pretraining, Finetuning, SFT, Supervised Finetuning, MOE, Expert router, LORA, PEFT, Full Finetuning, retraining experts, finetuning experts
  | [Progress and Prospects of Research on the Whole Stage of Coal Spontaneous Combustion](user_requests/Progress_and_Prospects_of_Research_on_the_Whole_Stage_of_Coal_Spontaneous_Combustion.pdf) | spontaneous combustion, comprehensive prevention and control throughout all stages, machine learning, artificial intelligence, informatization, monitoring and early warning, fire prevention and control, emergency rescue
- | [a survey on large language model for debugging the programs](user_requests/a_survey_on_large_language_model_for_debugging_the_programs.pdf) | Autonomous agent, Large language model, Debug, Debug like a Human, Human in the loop, Human-Computer Interaction, Automatic Program Repair, self-debug, testing>
+ | [a survey on large language model for debugging the programs](user_requests/a_survey_on_large_language_model_for_debugging_the_programs.pdf) | Autonomous agent, Large language model, Debug, Debug like a Human, Human in the loop, Human-Computer Interaction, Automatic Program Repair, self-debug, testing
+ | [Deepfake Detection Guided by data augmentation: A Survey](user_requests/Deepfake_Detection_Guided_by_data_augmentation__A_Survey.pdf) | deepfake, data augmentation, inverse graphics, classifier, computer vision, faceswap
+ | [A Comprehensive Survey of Facial Landmark Detection](user_requests/A_Comprehensive_Survey_of_Facial_Landmark_Detection.pdf) | facial landmark detection, face alignment, 3d facial landmarks, face morphing, facial retouching, virtual makeup>
 
 
 ## 📃Citing SurveyX
