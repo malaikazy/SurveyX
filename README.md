@@ -47,7 +47,7 @@ By submitting an issue with a paper title and keywords for literature search, us
 To request a paper, create a new issue with the following details:
 
 - **Paper Title**: Provide the title of the paper you need.
-- **Keywords for Literature Search**: Provide keywords separated by commas that will help retrieve relevant literature and guide the content generation (e.g. "AI in healthcare, climate change impact on agriculture, ethical implications of AI").
+- **Keywords for Literature Search**: Provide keywords separated by commas that will help retrieve relevant literature and guide the content generation (e.g. "AI in healthcare, climate change impact on agriculture, ethical implications of AI"). We recommend that the number of keywords be limited to **4 ~ 5** for optimal results.
 - **Your email**(optional): Please provide your email address so that we can notify you promptly once the paper is ready. 
 
 ### 💬Example Issue Submission:
