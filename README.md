@@ -220,6 +220,7 @@ Please cite us if you find this project helpful for your project/paper:
 
 - Our retrieval engine may not have access to many papers that require commercial licensing. If your research topic requires papers from sources other than arXiv, the quality and comprehensiveness of the generated papers may be affected due to limitations in our retrieval scope.
 - We currently only support the generation of English academic survey generation. Support for other languages is not available.
+- To ensure fair access for all users, each user is limited to one generation per day, prioritizing diverse user needs.
 
 ## ⚠️Disclaimer
 
