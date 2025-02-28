@@ -1,4 +1,4 @@
-<h1 align="center">SurveyX: Academic Survey Automation via Large Language Models</h1>
+<h2 align="center">SurveyX: Academic Survey Automation via Large Language Models</h2>
 
 <p align="center">
   <i>
@@ -171,6 +171,9 @@ Once your request is submitted, the generated paper will be placed in the **user
  | [Evolution and Challenges in Discrete Representation TTS: A Systematic Analysis of Encoding, Modeling and Decoding](user_requests/Evolution_and_Challenges_in_Discrete_Representation_TTS__A_Systematic_Analysis_of_Encoding,_Modeling_and_Decoding.pdf) | Discrete Representation, Text-to-Speech, Vector Quantization, Codebook Learning |
  | [Generate personalized text summaries using LLM](user_requests/Generate_personalized_text_summaries_using_LLM.pdf) | personalized LLM, text summaries, abstractive summaries, user portrait |
  | [Reinforcement Learning Training Mechanisms in Large Language Models: Key Technical Analyses from Reward Modeling to Policy Optimization](user_requests/Reinforcement_Learning_Training_Mechanisms_in_Large_Language_Models__Key_Technical_Analyses_from_Reward_Modeling_to_Policy_Optimization.pdf) | Reinforcement Learning, Reward Modeling, PPO, GRPO, Reinforcement Learning from Human Feedback (RLHF) |
+ | [Immersive VR Training for Educators: A Solution to Managing Student Crises and Promoting Mental Health Awareness](user_requests/Immersive_VR_Training_for_Educators__A_Solution_to_Managing_Student_Crises_and_Promoting_Mental_Health_Awareness.pdf) | student crisis management, teacher training, mental health education, virtual reality training, depression, VR in education |
+ | [LLM agents in Science of Science: A survey](user_requests/LLM_agents_in_Science_of_Science__A_survey.pdf) | LLM agents in the Science of Science, AI in the Science of Science, LLM agents in Scientometrics, LLM agents in the Library and Information Science |
+ | [Cardiovascular disease therapeutics via engineered gut microbiota: Applications and perspective](user_requests/Cardiovascular_disease_therapeutics_via_engineered_gut_microbiota__Applications_and_perspective.pdf) | cardiovascular disease, therapeutics, gut microbiota, clinical applications |
  | [A Comprehensive Survey on LLM-Post-Training-oriented Data Synthesis](user_requests/A_Comprehensive_Survey_on_LLM-Post-Training-oriented_Data_Synthesis.pdf) | - |
  | [Using Large Language Model Agents in psychology](user_requests/Using_Large_Language_Model_Agents_in_psychology.pdf) | Large Language Model, LLM Agents, psychology |
  | [Exploring the Influence of Free Iron Oxide Content on the Mechanical Properties of Granite Residual Soil Based on PFC3D Discrete Element Method](user_requests/Exploring_the_Influence_of_Free_Iron_Oxide_Content_on_the_Mechanical_Properties_of_Granite_Residual_Soil_Based_on_PFC3D_Discrete_Element_Method.pdf) | residual soil of granite, Free iron oxide, Discrete Element Method, Shear strength of residual granite soil, Compressibility of residual granite soil, PFC3D |
