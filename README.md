@@ -176,6 +176,7 @@ Once your request is submitted, the generated paper will be placed in the **user
  | [Intelligent Data Processing Techniques for Space Object Sensing: Feature Extraction, Multi-Source Fusion, and Heterogeneous Orbit Determination](user_requests/Intelligent_Data_Processing_Techniques_for_Space_Object_Sensing__Feature_Extraction,_Multi-Source_Fusion,_and_Heterogeneous_Orbit_Determination.pdf) | Space Object Sensing, Space Situational Awareness (SSA), Heterogeneous Multi-Source Orbit Determination, Multi-Dimensional Space Data Fusion |
  | [industrial automation with computer vision intelligence: A Survey](user_requests/industrial_automation_with_computer_vision_intelligence__A_Survey.pdf) | AI, Industry 4.0, Automation, Computer Vision, Surveillance, Safety, Anomaly |
  | [Fabric defect detection: a survey](user_requests/Fabric_defect_detection__a_survey.pdf) | Fabric defect detection |
+ | [Joint optimization of space allocation and yard crane deployment in container terminal under uncertain demand](user_requests/Joint_optimization_of_space_allocation_and_yard_crane_deployment_in_container_terminal_under_uncertain_demand.pdf) | Container terminal, Space allocation, Yard crane deployment, Uncertainty |
  | [The Chinese University of Hong Kong, Shenzhen students' Understanding of International Relations](user_requests/The_Chinese_University_of_Hong_Kong,_Shenzhen_students'_Understanding_of_International_Relations.pdf) | international relations, the Chinese University of HongKong Shenzhen, Sino-foreign cooperative education, Chinese undergraduates, educational innovations |
  | [Evaluation Benchmarks for Multimodal Large Language Models in Video Tasks: Current State and Challenges](user_requests/Evaluation_Benchmarks_for_Multimodal_Large_Language_Models_in_Video_Tasks__Current_State_and_Challenges.pdf) | Multimodal Large Language Models, Video, Evaluation Benchmarks, Video Understanding |
  | [In-context Learning for LLM Complex Reasoning Tasks: A Survey](user_requests/In-context_Learning_for_LLM_Complex_Reasoning_Tasks__A_Survey.pdf) | In-context learning, LLM, reasoning, logical problem, math problem. |
@@ -186,6 +187,7 @@ Once your request is submitted, the generated paper will be placed in the **user
  | [AI Alignment and Human-Machine Trust: A Survey](user_requests/AI_Alignment_and_Human-Machine_Trust__A_Survey.pdf) | Value Alignment, AI Alignment, Trust in AI systems |
  | [Exploiting MSK Orthogonality in CDMA and DSSS Systems: A Survey](user_requests/Exploiting_MSK_Orthogonality_in_CDMA_and_DSSS_Systems__A_Survey.pdf) | MSK, CDMA, DSSS, Temporal Correlation |
  | [Vocabulary Object Detection in VLM Era: A Survey](user_requests/Vocabulary_Object_Detection_in_VLM_Era__A_Survey.pdf) | Open Vocabulary, Scene Understanding, Object Detection, Vision Large Language Model |
+ | [Research and Optimization of Steel Structure Node Design](user_requests/Research_and_Optimization_of_Steel_Structure_Node_Design.pdf) | steel structure, node design, connection performance, seismic design |
 
 
 ## 📃Citing SurveyX
