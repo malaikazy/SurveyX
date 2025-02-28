@@ -1,4 +1,4 @@
-<h2 align="center">SurveyX: Academic Survey Automation via Large Language Models</h2>
+<h1 align="center">SurveyX: Academic Survey Automation via Large Language Models</h1>
 
 <p align="center">
   <i>
@@ -6,13 +6,13 @@
   </i>
   <br>
   <a href="https://arxiv.org/abs/2502.14776">
-      <img src="https://img.shields.io/badge/arXiv-Paper-B31B1B">
+      <img src="https://img.shields.io/badge/arXiv-Paper-B31B1B" alt="arxiv paper">
   </a>
   <a href="http://www.surveyx.cn">
-    <img src="https://img.shields.io/badge/SurveyX-Web-blue">
+    <img src="https://img.shields.io/badge/SurveyX-Web-blue" alt="surveyx.cn">
   </a>
   <a href="https://huggingface.co/papers/2502.14776">
-    <img src="https://img.shields.io/badge/Huggingface-🤗-yellow">
+    <img src="https://img.shields.io/badge/Huggingface-🤗-yellow" alt="huggingface paper">
   </a>
 </p>
 
@@ -28,7 +28,7 @@
 
 ## 🤔What is SurveyX?
 
-![](assets/SurveyX.png)
+![surveyx_frame](assets/SurveyX.png)
 
 **SurveyX** is an advanced academic survey automation system that leverages the power of Large Language Models (LLMs) to generate high-quality, domain-specific academic papers and surveys.🚀
 
@@ -48,15 +48,15 @@ To request a paper, create a new issue with the following details:
 
 - **Paper Title**: Provide the title of the paper you need.
 - **Keywords for Literature Search**: Provide keywords separated by commas that will help retrieve relevant literature and guide the content generation (e.g. "AI in healthcare, climate change impact on agriculture, ethical implications of AI"). We recommend that the number of keywords be limited to **4 ~ 5** for optimal results.
-- **Your email**(optional): Please provide your email address so that we can notify you promptly once the paper is ready. 
+- **Your email**(optional): Please provide your email address so that we can notify you promptly once the paper is ready.
 
-### 💬Example Issue Submission:
+### 💬Example Issue Submission
 
 > **Title**: Controllable text generation of LLM: A Survey
 >
 > **Keywords**: AI, healthcare, ethical implications, technology adoption, AI-driven diagnostics
 >
-> **Email**: xxxxxxxx@SurveyX.cn
+> **Email**: <xxxxxxxx@SurveyX.cn>
 
 Once your request is submitted, the generated paper will be placed in the **user requests** folder. Please allow 1-2 business days for processing and generation. ⏳
 
@@ -190,6 +190,7 @@ Once your request is submitted, the generated paper will be placed in the **user
  | [Dynamic Task Planning for Long-horizon Mobile Manipulation: A Survey](user_requests/Dynamic_Task_Planning_for_Long-horizon_Mobile_Manipulation__A_Survey.pdf) | task planning, mobile manipulation, long-horizon, robotics |
  | [Quadruped Robot Learning: A Survey](user_requests/Quadruped_Robot_Learning__A_Survey.pdf) | quadruped robots, mobile manipulation, legged locomotion, whole-body control |
  | [Microservice Scheduling in Hybrid Cloud Scenarios: A Survey](user_requests/Microservice_Scheduling_in_Hybrid_Cloud_Scenarios__A_Survey.pdf) | microservices, hybrid cloud, schdule |
+ | [A Survey on Microservice Autoscaling](user_requests/A_Survey_on_Microservice_Autoscaling.pdf) | microservices, autoscaling, schdule |
  | [Null Space Methods in Large Language Models: Applications and Insights](user_requests/Null_Space_Methods_in_Large_Language_Models__Applications_and_Insights.pdf) | Parameter-efficient tuning, Large language models |
  | [AI Alignment and Human-Machine Trust: A Survey](user_requests/AI_Alignment_and_Human-Machine_Trust__A_Survey.pdf) | Value Alignment, AI Alignment, Trust in AI systems |
  | [Exploiting MSK Orthogonality in CDMA and DSSS Systems: A Survey](user_requests/Exploiting_MSK_Orthogonality_in_CDMA_and_DSSS_Systems__A_Survey.pdf) | MSK, CDMA, DSSS, Temporal Correlation |
@@ -198,7 +199,6 @@ Once your request is submitted, the generated paper will be placed in the **user
  | [Three-dimensional Medical Image Semantic Segmentation Research](user_requests/Three-dimensional_Medical_Image_Semantic_Segmentation_Research.pdf) | artificial intelligence, machine learning, deep learning, medicine |
  | [Implementation plan for AI model implementation in Macao enterprises](user_requests/Implementation_plan_for_AI_model_implementation_in_Macao_enterprises.pdf) | artificial intelligence, ethical impact, technology adoption |
  | [Application of Diffusion Models in Medical Imaging](user_requests/Application_of_Diffusion_Models_in_Medical_Imaging.pdf) | Diffusion Models, Medical Imaging, Data Synthesis |
-
 
 ## 📃Citing SurveyX
 
@@ -218,7 +218,6 @@ Please cite us if you find this project helpful for your project/paper:
 
 <hr style="border: 1px solid #ecf0f1;">
 
-
 ## ⚠️ Note
 
 - Our retrieval engine may not have access to many papers that require commercial licensing. If your research topic requires papers from sources other than arXiv, the quality and comprehensiveness of the generated papers may be affected due to limitations in our retrieval scope.
@@ -228,4 +227,3 @@ Please cite us if you find this project helpful for your project/paper:
 ## ⚠️Disclaimer
 
 SurveyX uses advanced language models to assist with the generation of academic papers. However, it is important to note that the generated content is a tool for research assistance. Users should verify the accuracy of the generated papers, as SurveyX cannot guarantee full compliance with academic standards.
-
