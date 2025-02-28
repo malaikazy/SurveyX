@@ -169,6 +169,7 @@ Once your request is submitted, the generated paper will be placed in the **user
  | [Prediction of Emerging Small E-waste Generation: A Review of Multi-source Heterogeneous Data Fusion Methods Based on Machine Learning](user_requests/Prediction_of_Emerging_Small_E-waste_Generation__A_Review_of_Multi-source_Heterogeneous_Data_Fusion_Methods_Based_on_Machine_Learning.pdf) | Emerging small e-waste (ESW), multi-source heterogeneous data fusion, machine learning |
  | [Artificial Intelligence Data Center for AI model training: a Survey](user_requests/Artificial_Intelligence_Data_Center_for_AI_model_training__a_Survey.pdf) | Model Training, RDMA, Network topology, congestion control, load balancing |
  | [Evolution and Challenges in Discrete Representation TTS: A Systematic Analysis of Encoding, Modeling and Decoding](user_requests/Evolution_and_Challenges_in_Discrete_Representation_TTS__A_Systematic_Analysis_of_Encoding,_Modeling_and_Decoding.pdf) | Discrete Representation, Text-to-Speech, Vector Quantization, Codebook Learning |
+ | [Generate personalized text summaries using LLM](user_requests/Generate_personalized_text_summaries_using_LLM.pdf) | personalized LLM, text summaries, abstractive summaries, user portrait |
  | [A Comprehensive Survey on LLM-Post-Training-oriented Data Synthesis](user_requests/A_Comprehensive_Survey_on_LLM-Post-Training-oriented_Data_Synthesis.pdf) | - |
  | [Using Large Language Model Agents in psychology](user_requests/Using_Large_Language_Model_Agents_in_psychology.pdf) | Large Language Model, LLM Agents, psychology |
  | [Exploring the Influence of Free Iron Oxide Content on the Mechanical Properties of Granite Residual Soil Based on PFC3D Discrete Element Method](user_requests/Exploring_the_Influence_of_Free_Iron_Oxide_Content_on_the_Mechanical_Properties_of_Granite_Residual_Soil_Based_on_PFC3D_Discrete_Element_Method.pdf) | residual soil of granite, Free iron oxide, Discrete Element Method, Shear strength of residual granite soil, Compressibility of residual granite soil, PFC3D |
@@ -178,6 +179,7 @@ Once your request is submitted, the generated paper will be placed in the **user
  | [industrial automation with computer vision intelligence: A Survey](user_requests/industrial_automation_with_computer_vision_intelligence__A_Survey.pdf) | AI, Industry 4.0, Automation, Computer Vision, Surveillance, Safety, Anomaly |
  | [Fabric defect detection: a survey](user_requests/Fabric_defect_detection__a_survey.pdf) | Fabric defect detection |
  | [Joint optimization of space allocation and yard crane deployment in container terminal under uncertain demand](user_requests/Joint_optimization_of_space_allocation_and_yard_crane_deployment_in_container_terminal_under_uncertain_demand.pdf) | Container terminal, Space allocation, Yard crane deployment, Uncertainty |
+ | [Trustworthiness of Large Language Models: A Survey](user_requests/Trustworthiness_of_Large_Language_Models__A_Survey.pdf) | LLM, trustworthiness, uncertainty, hallucination, faithfulness |
  | [The Chinese University of Hong Kong, Shenzhen students' Understanding of International Relations](user_requests/The_Chinese_University_of_Hong_Kong,_Shenzhen_students'_Understanding_of_International_Relations.pdf) | international relations, the Chinese University of HongKong Shenzhen, Sino-foreign cooperative education, Chinese undergraduates, educational innovations |
  | [Evaluation Benchmarks for Multimodal Large Language Models in Video Tasks: Current State and Challenges](user_requests/Evaluation_Benchmarks_for_Multimodal_Large_Language_Models_in_Video_Tasks__Current_State_and_Challenges.pdf) | Multimodal Large Language Models, Video, Evaluation Benchmarks, Video Understanding |
  | [In-context Learning for LLM Complex Reasoning Tasks: A Survey](user_requests/In-context_Learning_for_LLM_Complex_Reasoning_Tasks__A_Survey.pdf) | In-context learning, LLM, reasoning, logical problem, math problem. |
@@ -185,11 +187,14 @@ Once your request is submitted, the generated paper will be placed in the **user
  | [Estimation of oil tank reserves based on remote sensing images: A Survey](user_requests/Estimation_of_oil_tank_reserves_based_on_remote_sensing_images__A_Survey.pdf) | AI, Oil tank, Optical high resolution remote sensing images |
  | [Dynamic Task Planning for Long-horizon Mobile Manipulation: A Survey](user_requests/Dynamic_Task_Planning_for_Long-horizon_Mobile_Manipulation__A_Survey.pdf) | task planning, mobile manipulation, long-horizon, robotics |
  | [Quadruped Robot Learning: A Survey](user_requests/Quadruped_Robot_Learning__A_Survey.pdf) | quadruped robots, mobile manipulation, legged locomotion, whole-body control |
+ | [Microservice Scheduling in Hybrid Cloud Scenarios: A Survey](user_requests/Microservice_Scheduling_in_Hybrid_Cloud_Scenarios__A_Survey.pdf) | microservices, hybrid cloud, schdule |
  | [Null Space Methods in Large Language Models: Applications and Insights](user_requests/Null_Space_Methods_in_Large_Language_Models__Applications_and_Insights.pdf) | Parameter-efficient tuning, Large language models |
  | [AI Alignment and Human-Machine Trust: A Survey](user_requests/AI_Alignment_and_Human-Machine_Trust__A_Survey.pdf) | Value Alignment, AI Alignment, Trust in AI systems |
  | [Exploiting MSK Orthogonality in CDMA and DSSS Systems: A Survey](user_requests/Exploiting_MSK_Orthogonality_in_CDMA_and_DSSS_Systems__A_Survey.pdf) | MSK, CDMA, DSSS, Temporal Correlation |
  | [Vocabulary Object Detection in VLM Era: A Survey](user_requests/Vocabulary_Object_Detection_in_VLM_Era__A_Survey.pdf) | Open Vocabulary, Scene Understanding, Object Detection, Vision Large Language Model |
  | [Research and Optimization of Steel Structure Node Design](user_requests/Research_and_Optimization_of_Steel_Structure_Node_Design.pdf) | steel structure, node design, connection performance, seismic design |
+ | [Three-dimensional Medical Image Semantic Segmentation Research](user_requests/Three-dimensional_Medical_Image_Semantic_Segmentation_Research.pdf) | artificial intelligence, machine learning, deep learning, medicine |
+ | [Implementation plan for AI model implementation in Macao enterprises](user_requests/Implementation_plan_for_AI_model_implementation_in_Macao_enterprises.pdf) | artificial intelligence, ethical impact, technology adoption |
 
 
 ## 📃Citing SurveyX
@@ -199,7 +204,7 @@ Please cite us if you find this project helpful for your project/paper:
 ```plain text
 @misc{liang2025surveyxacademicsurveyautomation,
       title={SurveyX: Academic Survey Automation via Large Language Models}, 
-      author={Xun Liang and Jiawei Yang and Yezhaohui Wang and Chen Tang and Zifan Zheng and Simin Niu and Shichao Song and Hanyu Wang and Bo Tang and Feiyu Xiong and Keming Mao and Zhiyu li},
+      author={Xun Liang and Jiawei Yang and Yezhaohui Wang and Chen Tang and Zifan Zheng and Shichao Song and Zehao Lin and Yebin Yang and Simin Niu and Hanyu Wang and Bo Tang and Feiyu Xiong and Keming Mao and Zhiyu li},
       year={2025},
       eprint={2502.14776},
       archivePrefix={arXiv},
