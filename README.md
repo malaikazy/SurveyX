@@ -215,6 +215,7 @@ Once your request is submitted, the generated paper will be placed in the **user
  | [A Survey on query-product relevance predicting](user_requests/A_Survey_on_query-product_relevance_predicting.pdf) | sentence relevance, recommend system |
  | [Intelligent Massage Robots: Motion Control, Key Algorithms, and Advancements in AI and Embodied Intelligence](user_requests/Intelligent_Massage_Robots__Motion_Control,_Key_Algorithms,_and_Advancements_in_AI_and_Embodied_Intelligence.pdf) | Intelligent Massage Robots, healthcare, Motion Control, Key Algorithms |
  | [Deep Learning-based Methods for Multivariate Time Series Imputation: A Survey](user_requests/Deep_Learning-based_Methods_for_Multivariate_Time_Series_Imputation__A_Survey.pdf) | Deep learning, Multivariate Time Series, Imputation |
+ | [A Comprehensive Review of Multimodal Large Models: Mechanisms, Applications, and Insights from Sensory Integration](user_requests/A_Comprehensive_Review_of_Multimodal_Large_Models__Mechanisms,_Applications,_and_Insights_from_Sensory_Integration.pdf) | Multimodal AI, sensory integration, cross-modal learning, audio-visual perception |
  | [A comprehensive review of core/cusp problem and oblateness of the dark matter halos of galaxies](user_requests/A_comprehensive_review_of_core_cusp_problem_and_oblateness_of_the_dark_matter_halos_of_galaxies.pdf) | galaxy, Milky Way, dark matter, galaxy simulation, stellar feedback |
  | [Evaluating Personality in Large Language Models: A Survey](user_requests/Evaluating_Personality_in_Large_Language_Models__A_Survey.pdf) | LLM, Personality |
  | [Null Space Methods in Large Language Models: Applications and Insights](user_requests/Null_Space_Methods_in_Large_Language_Models__Applications_and_Insights.pdf) | Parameter-efficient tuning, Large language models |
@@ -225,6 +226,7 @@ Once your request is submitted, the generated paper will be placed in the **user
  | [Three-dimensional Medical Image Semantic Segmentation Research](user_requests/Three-dimensional_Medical_Image_Semantic_Segmentation_Research.pdf) | artificial intelligence, machine learning, deep learning, medicine |
  | [Implementation plan for AI model implementation in Macao enterprises](user_requests/Implementation_plan_for_AI_model_implementation_in_Macao_enterprises.pdf) | artificial intelligence, ethical impact, technology adoption |
  | [Application of Diffusion Models in Medical Imaging](user_requests/Application_of_Diffusion_Models_in_Medical_Imaging.pdf) | Diffusion Models, Medical Imaging, Data Synthesis |
+ | [A survey of the application of deep learning in the field of oral cone-beam CT](user_requests/A_survey_of_the_application_of_deep_learning_in_the_field_of_oral_cone-beam_CT.pdf) | deep learning, cone-beam CT, image analysis, dentistry |
 
 ## 📃Citing SurveyX
 
