@@ -228,8 +228,14 @@ Once your request is submitted, the generated paper will be placed in the **user
  | [Application of Diffusion Models in Medical Imaging](user_requests/Application_of_Diffusion_Models_in_Medical_Imaging.pdf) | Diffusion Models, Medical Imaging, Data Synthesis |
  | [Classical Simulation of Quantum Computers](user_requests/Classical_Simulation_of_Quantum_Computers.pdf) | quantum computing fundamentals, quantum state representation, strong/weak simulation theory, state vector simulation techniques |
  | [A survey of the application of deep learning in the field of oral cone-beam CT](user_requests/A_survey_of_the_application_of_deep_learning_in_the_field_of_oral_cone-beam_CT.pdf) | deep learning, cone-beam CT, image analysis, dentistry |
+ | [A review of Multiscale Mechanics](user_requests/A_review_of_Multiscale_Mechanics.pdf) | Machine Learning, AI, LLM, Multiscale Mechanics |
+ | [The α-Synuclein Origin and Connectome Model (SOC Model) of synucleinopathy: Status as of 2025](user_requests/The_α-Synuclein_Origin_and_Connectome_Model_(SOC_Model)_of_synucleinopathy__Status_as_of_2025.pdf) | alpha-synuclein, autonomic nervous system, connectome |
+ | [The Application of Digital Technology in Oral Surgery Nursing Care：a literature review](user_requests/The_Application_of_Digital_Technology_in_Oral_Surgery_Nursing_Care：a_literature_review.pdf) | orthognathic surgery, oral surgery, Oral and Maxillofacial Surgery, computer⁃aided design, computer⁃as⁃sisted surgery |
  | [Deep Learning Models for Automated Medical Coding from EHRs: A survey](user_requests/Deep_Learning_Models_for_Automated_Medical_Coding_from_EHRs__A_survey.pdf) | Automated Medical coding, Deep learning, Computer assisted clinical coding, Clinical classification and coding |
+ | [Document Retrieval and Layout Understanding for Multimodal RAG: A Comprehensive Review](user_requests/Document_Retrieval_and_Layout_Understanding_for_Multimodal_RAG__A_Comprehensive_Review.pdf) | Retrieval-augmented generation (RAG), Multimodal retrieval, document understanding, Document retrieval |
+ | [PinTu: From Asynchronous Pipeline to Asynchronous Logic](user_requests/PinTu__From_Asynchronous_Pipeline_to_Asynchronous_Logic.pdf) | Asynchronous Circuits, Bundle Data, Design Flow, Click |
  | [Analysis of Earth's Rotation Effect on High-Precision Vertical Drilling for Deep Scientific Research Wells](user_requests/Analysis_of_Earth's_Rotation_Effect_on_High-Precision_Vertical_Drilling_for_Deep_Scientific_Research_Wells.pdf) | vertical drilling, Earth rotation, Coriolis effect, deep wells |
+ | [Neural network methods in the problem of defecting road infrastructure: A Survey](user_requests/Neural_network_methods_in_the_problem_of_defecting_road_infrastructure__A_Survey.pdf) | artificial intelligence, defect detection, defect classification, road infrastructure |
 
 ## 📃Citing SurveyX
 
