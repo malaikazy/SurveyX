@@ -226,7 +226,10 @@ Once your request is submitted, the generated paper will be placed in the **user
  | [Three-dimensional Medical Image Semantic Segmentation Research](user_requests/Three-dimensional_Medical_Image_Semantic_Segmentation_Research.pdf) | artificial intelligence, machine learning, deep learning, medicine |
  | [Implementation plan for AI model implementation in Macao enterprises](user_requests/Implementation_plan_for_AI_model_implementation_in_Macao_enterprises.pdf) | artificial intelligence, ethical impact, technology adoption |
  | [Application of Diffusion Models in Medical Imaging](user_requests/Application_of_Diffusion_Models_in_Medical_Imaging.pdf) | Diffusion Models, Medical Imaging, Data Synthesis |
+ | [Classical Simulation of Quantum Computers](user_requests/Classical_Simulation_of_Quantum_Computers.pdf) | quantum computing fundamentals, quantum state representation, strong/weak simulation theory, state vector simulation techniques |
  | [A survey of the application of deep learning in the field of oral cone-beam CT](user_requests/A_survey_of_the_application_of_deep_learning_in_the_field_of_oral_cone-beam_CT.pdf) | deep learning, cone-beam CT, image analysis, dentistry |
+ | [Deep Learning Models for Automated Medical Coding from EHRs: A survey](user_requests/Deep_Learning_Models_for_Automated_Medical_Coding_from_EHRs__A_survey.pdf) | Automated Medical coding, Deep learning, Computer assisted clinical coding, Clinical classification and coding |
+ | [Analysis of Earth's Rotation Effect on High-Precision Vertical Drilling for Deep Scientific Research Wells](user_requests/Analysis_of_Earth's_Rotation_Effect_on_High-Precision_Vertical_Drilling_for_Deep_Scientific_Research_Wells.pdf) | vertical drilling, Earth rotation, Coriolis effect, deep wells |
 
 ## 📃Citing SurveyX
 
