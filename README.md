@@ -4,6 +4,7 @@
   <i>
 ✨Welcome to SurveyX! This GitHub repository serves as a channel for users to submit requests for paper generation based on specific topics or domains.📚
   </i>
+  
   <br>
   <a href="https://arxiv.org/abs/2502.14776">
       <img src="https://img.shields.io/badge/arXiv-Paper-B31B1B" alt="arxiv paper">
@@ -21,6 +22,12 @@
 <mark>⭐ Star this repo to stay updated and be the first to know about our progress and release announcements!</mark>
 
 <mark>💡 Your support means everything to us as we work to bring this innovative solution to life. Stay tuned for more updates!</mark>
+
+<mark>💡Join Our Angel User Group Now! 🚀 Scan the QR Code Below to Shape the Future with Us!</mark>
+
+![Wechat Group](assets/user_group_01.JPG)
+
+
 
 ## ⭐Star History
 
