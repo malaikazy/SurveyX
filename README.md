@@ -23,7 +23,7 @@
 
 <mark>💡 Your support means everything to us as we work to bring this innovative solution to life. Stay tuned for more updates!</mark>
 
-<mark>💡Join Our Angel User Group Now! 🚀 Scan the QR Code Below to Shape the Future with Us!</mark>
+<mark>💡Join Our Angel User Group Now (Wechat Group)! 🚀 Scan the QR Code Below to Shape the Future with Us!</mark>
 
  
 <div align="center">
