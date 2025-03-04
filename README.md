@@ -25,8 +25,10 @@
 
 <mark>💡Join Our Angel User Group Now! 🚀 Scan the QR Code Below to Shape the Future with Us!</mark>
 
-![Wechat Group](assets/user_group_01.JPG)
-
+ 
+<div align="center">
+  <img src="assets/user_group_01.JPG" alt="Wechat Group" width="400" />
+</div>
 
 
 ## ⭐Star History
