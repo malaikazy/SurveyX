@@ -15,12 +15,10 @@
     <img src="https://img.shields.io/badge/Huggingface-🤗-yellow" alt="huggingface paper">
   </a>
   <a href="https://discord.gg/stWuP7SY">
-    <img src="https://img.shields.io/discord/1346729313134710817?logo=discord&label=Discord&color=5865f1
-" alt="discord channel">
+    <img src="https://img.shields.io/discord/1346729313134710817?logo=discord&label=Discord&color=5865f1" alt="discord channel">
   </a>
   <a href="https://github.com/IAAR-Shanghai/SurveyX">
-    <img src="https://img.shields.io/github/stars/IAAR-Shanghai/SurveyX?style=flat&logo=github&color=yellow
-" alt="github stars">
+    <img src="https://img.shields.io/github/stars/IAAR-Shanghai/SurveyX?style=flat&logo=github&color=yellow" alt="github stars">
   </a>
 </p>
 
