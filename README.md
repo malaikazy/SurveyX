@@ -17,11 +17,13 @@
   <a href="https://github.com/IAAR-Shanghai/SurveyX">
     <img src="https://img.shields.io/github/stars/IAAR-Shanghai/SurveyX?style=flat&logo=github&color=yellow" alt="github stars">
   </a>
+    <img src="https://img.shields.io/github/last-commit/IAAR-Shanghai/SurveyX?display_timestamp=author&style=flat&color=green" alt="last commit">
+  </a>
   <br>
   <a href="https://discord.gg/stWuP7SY">
     <img src="https://img.shields.io/discord/1346729313134710817?logo=discord&label=Discord&color=5865f1&style=flat" alt="discord channel">
   </a>
-  <a href="https://github.com/IAAR-Shanghai/SurveyX/blob/main/assets/user_group_123.jpg">
+  <a href="https://github.com/IAAR-Shanghai/SurveyX">
     <img src="https://img.shields.io/badge/Wechat-group-07c160?style=flat&logo=wechat" alt="github stars">
   </a>
 </p>
@@ -447,8 +449,10 @@ Once your request is submitted, the generated paper will be placed in the **user
  | [A Survey of Multi-Source Monitoring Technologies for Slope Stability Assessment](user_requests/A_Survey_of_Multi-Source_Monitoring_Technologies_for_Slope_Stability_Assessment.pdf) | Slope stability monitoring, Multi-source data, Geotechnical sensors, Physics-based approaches |
  | [A drug for the treatment of schizophrenia - COBENFY.](user_requests/A_drug_for_the_treatment_of_schizophrenia_-_COBENFY..pdf) | COBENFY, KarXT, xanomeline-trospium |
  | [A Survey of Ocean Drift Prediction Models and Simulation Techniques with Geospatial Visualization](user_requests/A_Survey_of_Ocean_Drift_Prediction_Models_and_Simulation_Techniques_with_Geospatial_Visualization.pdf) | ocean drift simulation, trajectory prediction, haversine formula, wind-driven drift |
+ | [A Comprehensive Survey on Reinforcement Learning: Focus on Offline Reinforcement Learning and Decision Transformer](user_requests/A_Comprehensive_Survey_on_Reinforcement_Learning__Focus_on_Offline_Reinforcement_Learning_and_Decision_Transformer.pdf) | Reinforcement Learning (RL), Offline Reinforcement Learning, Decision Transformer (DT) |
  | [Targeting gut microbiota by lignan in the prevention of cancers](user_requests/Targeting_gut_microbiota_by_lignan_in_the_prevention_of_cancers.pdf) | - |
  | [Targeting gut microbiota by lignan in the prevention of cancers](user_requests/Targeting_gut_microbiota_by_lignan_in_the_prevention_of_cancers.pdf) | lignan, gut microbiota, cancer |
+ | [Research on construction of evaluation index of community embedded care service quality](user_requests/Research_on_construction_of_evaluation_index_of_community_embedded_care_service_quality.pdf) | Community embedded care, Service quality, Evaluation index |
  | [Research and Application of Fault Diagnosis Methods in Process Industry](user_requests/Research_and_Application_of_Fault_Diagnosis_Methods_in_Process_Industry.pdf) | process industry, fault diagnosis, fault propagation, fault detection |
  | [Unimodal and Multimodal Emotion Recognition on Videos, Images and Audios: a Survey](user_requests/Unimodal_and_Multimodal_Emotion_Recognition_on_Videos,_Images_and_Audios__a_Survey.pdf) | Emotion Recognition, Face Emotion Revognition, Speech Emotion Recognition, Video Emotion Recognition |
  | [Molecular mechanism of DNA polymerase epsilon on plant meiotic DNA methylation](user_requests/Molecular_mechanism_of_DNA_polymerase_epsilon_on_plant_meiotic_DNA_methylation.pdf) | Epigenetics, DNA polymerase epsilon, meiosis |
