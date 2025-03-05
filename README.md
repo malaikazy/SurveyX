@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Huggingface-🤗-yellow" alt="huggingface paper">
   </a>
     <a href="https://discord.gg/stWuP7SY">
-    <img src="https://img.shields.io/badge/SurveyX-Discord-purple" alt="huggingface paper">
+    <img src="https://img.shields.io/badge/channel-Discord-9fa7f6" alt="huggingface paper">
   </a>
 </p>
 
