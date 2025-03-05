@@ -6,7 +6,7 @@
   </i>
   <br>
   <a href="https://arxiv.org/abs/2502.14776">
-      <img src="https://img.shields.io/badge/arXiv-Paper-B31B1B?style=flat" alt="arxiv paper">
+      <img src="https://img.shields.io/badge/arXiv-Paper-red.svg?logo=arxiv" alt="arxiv paper">
   </a>
   <a href="http://www.surveyx.cn">
     <img src="https://img.shields.io/badge/SurveyX-Web-blue?style=flat" alt="surveyx.cn">
