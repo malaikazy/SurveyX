@@ -26,7 +26,7 @@
 
  
 <div align="center">
-  <img src="assets/user_group_123.JPG" alt="Wechat Group" width="400" />
+  <img src="assets/user_group_123.jpg" alt="Wechat Group" width="400" />
 </div>
 
 ## ⭐Star History
