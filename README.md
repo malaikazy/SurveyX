@@ -6,19 +6,19 @@
   </i>
   <br>
   <a href="https://arxiv.org/abs/2502.14776">
-      <img src="https://img.shields.io/badge/arXiv-Paper-B31B1B?style=plastic" alt="arxiv paper">
+      <img src="https://img.shields.io/badge/arXiv-Paper-B31B1B?style=flat" alt="arxiv paper">
   </a>
   <a href="http://www.surveyx.cn">
-    <img src="https://img.shields.io/badge/SurveyX-Web-blue?style=plastic" alt="surveyx.cn">
+    <img src="https://img.shields.io/badge/SurveyX-Web-blue?style=flat" alt="surveyx.cn">
   </a>
   <a href="https://huggingface.co/papers/2502.14776">
-    <img src="https://img.shields.io/badge/Huggingface-🤗-yellow?style=plastic" alt="huggingface paper">
+    <img src="https://img.shields.io/badge/Huggingface-🤗-yellow?style=flat" alt="huggingface paper">
   </a>
   <a href="https://discord.gg/stWuP7SY">
-    <img src="https://img.shields.io/discord/1346729313134710817?logo=discord&label=Discord&color=5865f1&style=plastic" alt="discord channel">
+    <img src="https://img.shields.io/discord/1346729313134710817?logo=discord&label=Discord&color=5865f1&style=flat" alt="discord channel">
   </a>
   <a href="https://github.com/IAAR-Shanghai/SurveyX">
-    <img src="https://img.shields.io/github/stars/IAAR-Shanghai/SurveyX?style=plastic&logo=github&color=yellow" alt="github stars">
+    <img src="https://img.shields.io/github/stars/IAAR-Shanghai/SurveyX?style=flat&logo=github&color=yellow" alt="github stars">
   </a>
 </p>
 
@@ -425,14 +425,25 @@ Once your request is submitted, the generated paper will be placed in the **user
  | [Comparative Analysis of Different Cells in the Life Cycle of Phaeocystis globosa and Research on the Molecular Mechanism of Colony Formation](user_requests/Comparative_Analysis_of_Different_Cells_in_the_Life_Cycle_of_Phaeocystis_globosa_and_Research_on_the_Molecular_Mechanism_of_Colony_Formation.pdf) | Phaeocystis globosa, Solitary Cell, Colony Cell |
  | [The Role of Peroxisome Proliferator-Activated Receptors (PPARs) in Pain Modulation: A Comprehensive Review](user_requests/The_Role_of_Peroxisome_Proliferator-Activated_Receptors_(PPARs)_in_Pain_Modulation__A_Comprehensive_Review.pdf) | PPAR signaling, neuropathic pain, inflammatory pain, PPAR agonists |
  | [Comparative Analysis of Different Cells in the Life Cycle of Phaeocystis globosa and Research on the Molecular Mechanism of Colony Formation](user_requests/Comparative_Analysis_of_Different_Cells_in_the_Life_Cycle_of_Phaeocystis_globosa_and_Research_on_the_Molecular_Mechanism_of_Colony_Formation.pdf) | Phaeocystis globosa, Solitary Cell, Colony Cell, Transcriptomics |
+ | [Tumor evolution and site-specific microenvironment of metastatic ovarian cancer](user_requests/Tumor_evolution_and_site-specific_microenvironment_of_metastatic_ovarian_cancer.pdf) | Ovarian cancer, metastasis, tumor evolution |
  | [Pedagogical Agents with Large Language Models: A Survey](user_requests/Pedagogical_Agents_with_Large_Language_Models__A_Survey.pdf) | Pedagogical Agents, Agent, LLM, Education |
+ | [A literature review on the development context, key figures, core viewpoints, and problem domains of sociological ethics: a sevury](user_requests/A_literature_review_on_the_development_context,_key_figures,_core_viewpoints,_and_problem_domains_of_sociological_ethics__a_sevury.pdf) | Standards of good and evil, living a good life, ethics, fairness and justice |
+ | [The Application of Large Language Models or Machine Learning Methods in the Management and Intervention of Physiological and Psychological Health in Chronic Disease Patients.](user_requests/The_Application_of_Large_Language_Models_or_Machine_Learning_Methods_in_the_Management_and_Intervention_of_Physiological_and_Psychological_Health_in_Chronic_Disease_Patients..pdf) | Large Language Models, Machine Learning, Risk Prediction, Chronic Disease Patients |
  | [Progress of Research on Urban Green Spaces to Promote Mental Health of the Elderly](user_requests/Progress_of_Research_on_Urban_Green_Spaces_to_Promote_Mental_Health_of_the_Elderly.pdf) | green space, old people, mental Health |
+ | [Resilience Assessment of Power Systems Considering Tail Risk Under Natural Disasters](user_requests/Resilience_Assessment_of_Power_Systems_Considering_Tail_Risk_Under_Natural_Disasters.pdf) | Power System Resilience Assessment, Natural Disasters, Failure Scenario Generation, Disaster Intensity Probability Modeling |
  | [Practical Applications of Knowledge Graphs: Current Status, Challenges, and Future Prospects](user_requests/Practical_Applications_of_Knowledge_Graphs__Current_Status,_Challenges,_and_Future_Prospects.pdf) | Applications of Knowledge Graphs, Biomedical Knowledge Graphs, Financial Knowledge Graph |
  | [Pathogenic mechanism and vaccine of Mycoplasma  gallisepticum  development](user_requests/Pathogenic_mechanism_and_vaccine_of_Mycoplasma__gallisepticum__development.pdf) | vaccine of Mycoplasma gallisepticum, Pathogenic of Mycoplasma gallisepticum, diagnosis of Mycoplasma gallisepticum |
  | [Sustainable supply chain network optimization for relief items considering resilient strategies and humanitarian](user_requests/Sustainable_supply_chain_network_optimization_for_relief_items_considering_resilient_strategies_and_humanitarian.pdf) | Relief items, Resilient strategies, Humanitarian Supply Chain (HSC) |
  | [Thymus Biology: Immunodeficiency and Cancer Progression](user_requests/Thymus_Biology__Immunodeficiency_and_Cancer_Progression.pdf) | Thymic immunodeficiency, Thymic Biology, Autoimmune Tolerance, Thymus-cancer crosstalk |
+ | [The Role of Biophilic Design in Virtual Reality in Multi-sensory Experiences: A Study Using Eye-tracking and Electroencephalogram (EEG) Experiments](user_requests/The_Role_of_Biophilic_Design_in_Virtual_Reality_in_Multi-sensory_Experiences__A_Study_Using_Eye-tracking_and_Electroencephalogram_(EEG)_Experiments.pdf) | Direct or indirect biophilic design, Virtual Reality, Multi-sensory Experiences, Eye-tracking |
  | [VisionGNN: Advanced Graph Neural Networks for Visual Representation Learning - Efficiency, Applications and Interpretability](user_requests/VisionGNN__Advanced_Graph_Neural_Networks_for_Visual_Representation_Learning_-_Efficiency,_Applications_and_Interpretability.pdf) | VisionGNN, Lightweight graph models, Graph structural inductive bias, Visual representation learning |
+ | [Applications of Large Language Models in Bioinformatics: From Sequence Analysis to Protein Structure Prediction](user_requests/Applications_of_Large_Language_Models_in_Bioinformatics__From_Sequence_Analysis_to_Protein_Structure_Prediction.pdf) | Large Language Models (LLMs), Bioinformatics, Sequence Analysis, Protein Structure Prediction |
+ | [Relationship between climate change and economic growth: A literature review](user_requests/Relationship_between_climate_change_and_economic_growth__A_literature_review.pdf) | climate change, economic growth, temperature, rainfall |
+ | [A Survey of Multi-Source Monitoring Technologies for Slope Stability Assessment](user_requests/A_Survey_of_Multi-Source_Monitoring_Technologies_for_Slope_Stability_Assessment.pdf) | Slope stability monitoring, Multi-source data, Geotechnical sensors, Physics-based approaches |
+ | [A drug for the treatment of schizophrenia - COBENFY.](user_requests/A_drug_for_the_treatment_of_schizophrenia_-_COBENFY..pdf) | COBENFY, KarXT, xanomeline-trospium |
  | [A Survey of Ocean Drift Prediction Models and Simulation Techniques with Geospatial Visualization](user_requests/A_Survey_of_Ocean_Drift_Prediction_Models_and_Simulation_Techniques_with_Geospatial_Visualization.pdf) | ocean drift simulation, trajectory prediction, haversine formula, wind-driven drift |
+ | [Targeting gut microbiota by lignan in the prevention of cancers](user_requests/Targeting_gut_microbiota_by_lignan_in_the_prevention_of_cancers.pdf) | - |
+ | [Targeting gut microbiota by lignan in the prevention of cancers](user_requests/Targeting_gut_microbiota_by_lignan_in_the_prevention_of_cancers.pdf) | lignan, gut microbiota, cancer |
  | [Research and Application of Fault Diagnosis Methods in Process Industry](user_requests/Research_and_Application_of_Fault_Diagnosis_Methods_in_Process_Industry.pdf) | process industry, fault diagnosis, fault propagation, fault detection |
  | [Unimodal and Multimodal Emotion Recognition on Videos, Images and Audios: a Survey](user_requests/Unimodal_and_Multimodal_Emotion_Recognition_on_Videos,_Images_and_Audios__a_Survey.pdf) | Emotion Recognition, Face Emotion Revognition, Speech Emotion Recognition, Video Emotion Recognition |
  | [Molecular mechanism of DNA polymerase epsilon on plant meiotic DNA methylation](user_requests/Molecular_mechanism_of_DNA_polymerase_epsilon_on_plant_meiotic_DNA_methylation.pdf) | Epigenetics, DNA polymerase epsilon, meiosis |
