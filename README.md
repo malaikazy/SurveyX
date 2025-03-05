@@ -36,8 +36,6 @@
 
 [![Star History Chart](https://api.star-history.com/svg?repos=IAAR-Shanghai/SurveyX&type=Timeline)](https://star-history.com/#IAAR-Shanghai/SurveyX&Timeline)
 
-中文版本README：[README_zh.md](https://github.com/IAAR-Shanghai/SurveyX/blob/main/README_zh.md)
-
 ## 🤔What is SurveyX?
 
 ![surveyx_frame](assets/SurveyX.png)
@@ -465,3 +463,5 @@ Please cite us if you find this project helpful for your project/paper:
 ## ⚠️Disclaimer
 
 SurveyX uses advanced language models to assist with the generation of academic papers. However, it is important to note that the generated content is a tool for research assistance. Users should verify the accuracy of the generated papers, as SurveyX cannot guarantee full compliance with academic standards.
+
+中文版本README：[README_zh.md](https://github.com/IAAR-Shanghai/SurveyX/blob/main/README_zh.md)
