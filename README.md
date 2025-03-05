@@ -9,16 +9,16 @@
       <img src="https://img.shields.io/badge/arXiv-Paper-B31B1B?style=plastic" alt="arxiv paper">
   </a>
   <a href="http://www.surveyx.cn">
-    <img src="https://img.shields.io/badge/SurveyX-Web-blue" alt="surveyx.cn">
+    <img src="https://img.shields.io/badge/SurveyX-Web-blue?style=plastic" alt="surveyx.cn">
   </a>
   <a href="https://huggingface.co/papers/2502.14776">
-    <img src="https://img.shields.io/badge/Huggingface-🤗-yellow" alt="huggingface paper">
+    <img src="https://img.shields.io/badge/Huggingface-🤗-yellow?style=plastic" alt="huggingface paper">
   </a>
   <a href="https://discord.gg/stWuP7SY">
-    <img src="https://img.shields.io/discord/1346729313134710817?logo=discord&label=Discord&color=5865f1" alt="discord channel">
+    <img src="https://img.shields.io/discord/1346729313134710817?logo=discord&label=Discord&color=5865f1&style=plastic" alt="discord channel">
   </a>
   <a href="https://github.com/IAAR-Shanghai/SurveyX">
-    <img src="https://img.shields.io/github/stars/IAAR-Shanghai/SurveyX?style=flat&logo=github&color=yellow" alt="github stars">
+    <img src="https://img.shields.io/github/stars/IAAR-Shanghai/SurveyX?style=flat&logo=github&color=yellow&style=plastic" alt="github stars">
   </a>
 </p>
 
