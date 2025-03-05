@@ -14,6 +14,7 @@
   <a href="https://huggingface.co/papers/2502.14776">
     <img src="https://img.shields.io/badge/Huggingface-🤗-yellow?style=flat" alt="huggingface paper">
   </a>
+  <br>
   <a href="https://discord.gg/stWuP7SY">
     <img src="https://img.shields.io/discord/1346729313134710817?logo=discord&label=Discord&color=5865f1&style=flat" alt="discord channel">
   </a>
@@ -428,6 +429,7 @@ Once your request is submitted, the generated paper will be placed in the **user
  | [Tumor evolution and site-specific microenvironment of metastatic ovarian cancer](user_requests/Tumor_evolution_and_site-specific_microenvironment_of_metastatic_ovarian_cancer.pdf) | Ovarian cancer, metastasis, tumor evolution |
  | [Pedagogical Agents with Large Language Models: A Survey](user_requests/Pedagogical_Agents_with_Large_Language_Models__A_Survey.pdf) | Pedagogical Agents, Agent, LLM, Education |
  | [A literature review on the development context, key figures, core viewpoints, and problem domains of sociological ethics: a sevury](user_requests/A_literature_review_on_the_development_context,_key_figures,_core_viewpoints,_and_problem_domains_of_sociological_ethics__a_sevury.pdf) | Standards of good and evil, living a good life, ethics, fairness and justice |
+ | [Review on Mura defect detection of Micro-displays screen based on TPU edge computing](user_requests/Review_on_Mura_defect_detection_of_Micro-displays_screen_based_on_TPU_edge_computing.pdf) | mura, defect recognition, autofocus leveling |
  | [The Application of Large Language Models or Machine Learning Methods in the Management and Intervention of Physiological and Psychological Health in Chronic Disease Patients.](user_requests/The_Application_of_Large_Language_Models_or_Machine_Learning_Methods_in_the_Management_and_Intervention_of_Physiological_and_Psychological_Health_in_Chronic_Disease_Patients..pdf) | Large Language Models, Machine Learning, Risk Prediction, Chronic Disease Patients |
  | [Progress of Research on Urban Green Spaces to Promote Mental Health of the Elderly](user_requests/Progress_of_Research_on_Urban_Green_Spaces_to_Promote_Mental_Health_of_the_Elderly.pdf) | green space, old people, mental Health |
  | [Resilience Assessment of Power Systems Considering Tail Risk Under Natural Disasters](user_requests/Resilience_Assessment_of_Power_Systems_Considering_Tail_Risk_Under_Natural_Disasters.pdf) | Power System Resilience Assessment, Natural Disasters, Failure Scenario Generation, Disaster Intensity Probability Modeling |
