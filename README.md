@@ -14,8 +14,8 @@
   <a href="https://huggingface.co/papers/2502.14776">
     <img src="https://img.shields.io/badge/Huggingface-🤗-yellow" alt="huggingface paper">
   </a>
-    <a href="https://discord.gg/stWuP7SY">
-    <img src="https://img.shields.io/badge/channel-Discord-5865f1" alt="huggingface paper">
+  <a href="https://discord.gg/stWuP7SY">
+    <img src="https://img.shields.io/badge/channel-Discord-5865f1" alt="discord channel">
   </a>
 </p>
 
