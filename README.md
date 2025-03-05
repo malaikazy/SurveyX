@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/discord/1346729313134710817?logo=discord&label=Discord&color=5865f1&style=flat" alt="discord channel">
   </a>
   <a href="https://github.com/IAAR-Shanghai/SurveyX">
-    <img src="https://img.shields.io/badge/Wechat-group-07c160?style=flat&logo=wechat" alt="github stars">
+    <img src="https://img.shields.io/badge/Wechat-Group-07c160?style=flat&logo=wechat" alt="github stars">
   </a>
 </p>
 
