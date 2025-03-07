@@ -28,7 +28,7 @@
 <mark>💡立即加入我们的天使用户组（微信群）！ 🚀 扫描下方二维码，与我们一起塑造未来！</mark>
 
 <div align="center">
-  <img src="assets/user_groups_123.jpg" alt="Wechat Group" width="800" />
+  <img src="assets/user_groups_123.jpg" alt="Wechat Group" width="1200" />
 </div>
 
 ## ⭐ Star History
